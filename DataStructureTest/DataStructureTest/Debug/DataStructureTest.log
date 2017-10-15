@@ -1,0 +1,4 @@
+﻿  LinkedList.cpp
+d:\github\datastructuretest\datastructuretest\datastructuretest\linkedlist.cpp(51): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'C_ListNode *'
+  DataStructureTest.vcxproj -> D:\Github\DataStructureTest\DataStructureTest\Debug\DataStructureTest.exe
+  DataStructureTest.vcxproj -> D:\Github\DataStructureTest\DataStructureTest\Debug\DataStructureTest.pdb (Partial PDB)
